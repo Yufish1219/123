@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("hello I'am fish");
+    printf("hello I'am 魚");
 }
